@@ -1,0 +1,12 @@
+[
+ {"id": 1,"title": "เทคนิคเรียนรู้เครื่องมือ AI: สำหรับการเริ่มต้นโปรแกรมพื้นฐาน (PDF)","author": "JACK PK","price": "299฿","available_copies": 3,"cover_url":"https://mp-static.se-ed.com/e-book-audio/3jak21vw7n63g6a1d3gz/image/3viz7sf7" },
+ {"id": 2,"title": "การเขียนโปรแกรมด้วย GoLang", "author": "สุพจษ์ สง่ากอง, ปิยะ นากสงค์","price": "217.55฿","available_copies": 0,"cover_url":"https://mp-static.se-ed.com/physical/cover/x5oxm2p7eisi1mhvjpiv/image/yqu0fsn3"},
+ {"id": 3,"title": "การเขียนโปรแกรมด้วย Python", "author": "ศุภชัย สมพานิช","price": "265.50฿","available_copies": 0,"cover_url":"https://mp-static.se-ed.com/physical/cover/f3isswy0imswg0c9w4nb/image/vntoyji6"},
+ {"id": 4,"title": "พื้นฐานการเขียนเว็บด้วย HTML & CSS", "author": "อาทิตย์ พัฒนกุล","price": "189฿","available_copies": 5,"cover_url":"https://picsum.photos/200/300"},
+ {"id": 5,"title": "JavaScript ฉบับเข้าใจง่าย", "author": "ธันวา อินทรสอน","price": "250฿","available_copies": 2,"cover_url":"https://picsum.photos/200/301"},
+ {"id": 6,"title": "React พัฒนาเว็บยุคใหม่", "author": "วีรพงษ์ มหาสิทธิโชค","price": "320฿","available_copies": 4,"cover_url":"https://picsum.photos/200/302"},
+ {"id": 7,"title": "คู่มือใช้งาน Node.js สำหรับผู้เริ่มต้น", "author": "สุพจน์ แสงทอง","price": "280฿","available_copies": 1,"cover_url":"https://picsum.photos/200/303"},
+ {"id": 8,"title": "ฐานข้อมูลเบื้องต้นด้วย MySQL", "author": "พนม กุลประเสริฐ","price": "230฿","available_copies": 0,"cover_url":"https://picsum.photos/200/304"},
+ {"id": 9,"title": "สร้างแอปด้วย Flutter ฉบับมือใหม่", "author": "พศิน กิตติวัฒน์","price": "299฿","available_copies": 6,"cover_url":"https://picsum.photos/200/305"},
+ {"id": 10,"title": "คู่มือใช้ Git & GitHub อย่างมืออาชีพ", "author": "กิตติพงษ์ นิ่มสุข","price": "190฿","available_copies": 0,"cover_url":"https://picsum.photos/200/306"}
+ ]
